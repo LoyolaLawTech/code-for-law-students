@@ -1,36 +1,26 @@
 # Summary
 
-* [Basics](basics/README.md)
-    * [Comments](basics/comments.md)
-    * [Variables](basics/variables.md)
-    * [Types](basics/types.md)
-    * [Equality](basics/equality.md)
-* [Numbers](numbers/README.md)
-    * [Creation](numbers/create.md)
-    * [Basic Operators](numbers/operators.md)
-    * [Advanced Operators](numbers/advanced.md)
-* [Strings](strings/README.md)
-    * [Creation](strings/create.md)
-    * [Concatenation](strings/concat.md)
-    * [Length](strings/length.md)
-* [Conditional Logic](conditional/README.md)
-    * [If](conditional/if.md)
-    * [Else](conditional/else.md)
-    * [Comparators](conditional/comparators.md)
-    * [Concatenate](conditional/concatenate.md)
-* [Loops](loops/README.md)
-    * [For](loops/for.md)
-    * [While](loops/while.md)
-* [Functions](functions/README.md)
-    * [Declare](functions/declare.md)
-    * [Higher order](functions/higher_order.md)
-* [Objects](objects/README.md)
-    * [Creation](objects/creation.md)
-    * [Properties](objects/properties.md)
-    * [Mutable](objects/mutable.md)
-    * [Reference](objects/reference.md)
-    * [Prototype](objects/prototype.md)
-    * [Delete](objects/delete.md)
-    * [Enumeration](objects/enumeration.md)
-    * [Global footprint](objects/global_footprint.md)
+* [Getting Started](getting-started/README.md)
+    * [What We Will Learn](getting-started/what-we-will-learn.md)
+    * [Tools](getting-started/tools.md)
+    * [Setting Up](getting-started/setting-up.md)
+* [Markup](markup/README.md)
+    * [Creation](markup/create.md)
+    * [Basic Operators](markup/operators.md)
+    * [Advanced Operators](markup/advanced.md)
+* [Style](styling/README.md)
+    * [Creation](style/create.md)
+    * [Concatenation](style/concat.md)
+    * [Length](style/length.md)
+<!-- 
+Other sections:
 
+* 
+* Scripting/Javascript
+* Jquery
+* Data
+* Manipulating Data
+
+TBD
+
+-->
